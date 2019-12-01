@@ -1,0 +1,6 @@
+hello to intellipaat12
+
+git credentials
+---------------
+git userName: raveendra.g@dhanushinfotech.net
+git password : ravisai9880
